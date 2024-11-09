@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I’m currently working as a Associate Technical Consultant at WNS Vuram<br>🌱 I’m currently learning Appian through Udemy tutorials and continuously improving my skills in coding and technical consulting.<br>💬 Ask me about AI/ML Appian development, coding practices, and my experiences as an Associate Technical Consultant at WNS Vuram.<br>⚡ Fun fact: Outside of work, I enjoy following chess and keeping up with the latest strategies and tournaments!<br><br>
+⚡ I’m currently working as a Associate Technical Consultant at WNS Vuram<br>🌱 I’m currently learning Appian through Udemy tutorials and continuously improving my skills in coding and technical consulting.<br>💬 Ask me about AI/ML, Appian development, coding practices, and my experiences as an Associate Technical Consultant at WNS Vuram.<br>⚡ Fun fact: Outside of work, I enjoy following chess and keeping up with the latest strategies and tournaments!<br><br>
 
 
 # 💻 Tech Stack:
