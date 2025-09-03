@@ -70,7 +70,7 @@ Uses **LangChain, FAISS, and LLMs** to provide a simple yet powerful **Streamlit
 ---
 
 ## 📫 Let’s Connect
-- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/chidambara-raju-g-22a152233/)
+- 🌐 LinkedIn: [linkedin.com/in/chidambara-raju-g](https://www.linkedin.com/in/chidambara-raju-g-22a152233/)
 
 ---
 ⭐️ *Focused on creating practical Agentic AI solutions that bridge research and real-world applications.*
