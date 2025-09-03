@@ -19,3 +19,60 @@
 [![](https://visitcount.itsvg.in/api?id=ChidambaraRaju&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# 👋 Hi, I'm Raju (Juu)
+
+🚀 **Aspiring Agentic AI Developer | Gen AI Enthusiast**
+
+I’m passionate about building **Agentic AI systems** and **Generative AI applications** that solve real-world problems. My focus is on exploring **LangGraph, LangChain, and RAG architectures** to design autonomous, intelligent agents.
+
+---
+
+## 🔬 Focus Areas
+- **Agentic AI** → Multi-agent systems, autonomy, reasoning with LangGraph  
+- **Generative AI** → RAG pipelines, document assistants, and AI-driven recommendations  
+- **LLM Applications** → End-to-end apps with Streamlit, LangChain, and vector databases  
+
+---
+
+## 💡 Featured Projects
+
+### 📰 [LangGraph News Agent](https://github.com/yourusername/langgraph-news-agent)
+A multi-agent newspaper generator built with **LangGraph**.  
+This AI agent understands natural language requests to autonomously research topics, perform self-correcting searches, and compose a polished daily newspaper in a **Streamlit UI**.  
+✅ A complete portfolio project.
+
+---
+
+### 🎌 [Anime RAG Recommender](https://github.com/yourusername/anime-rag-recommender)
+A **Retrieval-Augmented Generation (RAG)** based **Anime Recommendation System**.  
+Built with **LangChain + Streamlit**, it takes your anime preferences in natural language and delivers **context-aware recommendations** from a curated anime knowledge base.
+
+---
+
+### 📑 [PDF Pal – RAG Document Assistant](https://github.com/yourusername/pdf-pal-rag-document-assistant)
+An AI-powered app for querying and summarizing documents.  
+Uses **LangChain, FAISS, and LLMs** to provide a simple yet powerful **Streamlit interface** for interacting with your documents.  
+
+---
+
+## 🌱 Currently Exploring
+- Advanced **multi-agent coordination** with LangGraph  
+- Optimizing **RAG pipelines** for speed & accuracy  
+- Building portfolio-ready **AI assistants**  
+
+---
+
+## 📌 Beyond AI
+- 💼 Exposure to **Appian** (Low-code automation)  
+- ♟️ Hobby: **Following chess**  
+
+---
+
+## 📫 Let’s Connect
+- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- 🌐 LinkedIn: [linkedin.com/in/yourprofile](#) *(add link)*  
+
+---
+⭐️ *Focused on creating practical Agentic AI solutions that bridge research and real-world applications.*
