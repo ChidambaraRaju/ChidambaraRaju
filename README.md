@@ -35,6 +35,16 @@ I’m passionate about building **Agentic AI systems** and **Generative AI appli
 - **LLM Applications** → End-to-end apps with Streamlit, LangChain, and vector databases  
 
 ---
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A3E2F?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2D2D2D?style=for-the-badge&logo=graphql&logoColor=E535AB)
+![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF9900?style=for-the-badge&logo=elastic&logoColor=white)
+
+---
 
 ## 💡 Featured Projects
 
