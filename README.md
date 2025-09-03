@@ -37,12 +37,20 @@ I’m passionate about building **Agentic AI systems** and **Generative AI appli
 ---
 ## 🛠 Tech Stack
 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0A3E2F?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2D2D2D?style=for-the-badge&logo=graphql&logoColor=E535AB)
 ![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF9900?style=for-the-badge&logo=elastic&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=facebook&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-DC143C?style=for-the-badge&logo=chakraui&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-3776AB?style=for-the-badge&logo=pinecone&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ---
 
