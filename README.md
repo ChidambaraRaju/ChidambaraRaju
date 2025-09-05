@@ -34,6 +34,11 @@ I’m passionate about building **Agentic AI systems** and **Generative AI appli
 
 ## 💡 Featured Projects
 
+### 🧭 [Capitan Compass](https://github.com/ChidambaraRaju/capital-compass)
+An AI-powered investment research tool that generates professional financial reports in seconds. It combines market data and news sentiment using a multi-agent LangGraph workflow to deliver clear, actionable investment insights.
+
+---
+
 ### 📰 [LangGraph News Agent](https://github.com/ChidambaraRaju/langgraph-news-agent)
 A multi-agent newspaper generator built with **LangGraph**.  
 This AI agent understands natural language requests to autonomously research topics, perform self-correcting searches, and compose a polished daily newspaper in a **Streamlit UI**.  
