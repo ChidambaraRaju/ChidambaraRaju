@@ -25,9 +25,12 @@ I’m passionate about building **Agentic AI systems** and **Generative AI appli
 ![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=facebook&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-DC143C?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-3776AB?style=for-the-badge&logo=pinecone&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 
 
 ---
