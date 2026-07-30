@@ -161,7 +161,7 @@ My focus is on **Agentic AI, Generative AI, LLM fine-tuning, and AI engineering*
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chidambara-raju-g/">
+  <a href="https://www.linkedin.com/in/chidambara-raju-g-22a152233/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ChidambaraRaju">
