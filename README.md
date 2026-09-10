@@ -65,13 +65,10 @@ My focus is on **Agentic AI, Generative AI, LLM fine-tuning, and AI engineering*
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chroma-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-00B3B0?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unsloth-FF6B2B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -110,6 +107,22 @@ My focus is on **Agentic AI, Generative AI, LLM fine-tuning, and AI engineering*
     </td>
   </tr>
 </table>
+
+---
+
+## 📚 Tutorials
+
+Notes and notebooks, ordered from foundations through serving, agents, RAG, LLM infra, then RL.
+
+| Tutorial | What it covers |
+|----------|----------------|
+| [deep-understanding-of-deep-learning-udemy](https://github.com/ChidambaraRaju/deep-understanding-of-deep-learning-udemy) | Notes, code, and projects from Mike X Cohen’s deep learning course |
+| [docker-tutorial](https://github.com/ChidambaraRaju/docker-tutorial) | Docker from first principles: notes, mental models, and working examples |
+| [fastapi-for-gen-ai](https://github.com/ChidambaraRaju/fastapi-for-gen-ai) | FastAPI for GenAI apps — notes, code examples, and agentic AI insights |
+| [langgraph-udemy-bootcamp](https://github.com/ChidambaraRaju/langgraph-udemy-bootcamp) | Hands-on notebooks from the Agentic AI bootcamp with LangGraph and LangChain |
+| [RAG-from-scratch-with-langchain-and-langgraph](https://github.com/ChidambaraRaju/RAG-from-scratch-with-langchain-and-langgraph) | RAG from fundamentals through agentic LangGraph workflows |
+| [redis-llm-caching](https://github.com/ChidambaraRaju/redis-llm-caching) | Redis for LLM apps: exact/semantic cache, agent memory, rate limiting, RAG cache, Gradio demo |
+| [conquer-RL](https://github.com/ChidambaraRaju/conquer-RL) | Code and notes from learning reinforcement learning |
 
 ---
 
