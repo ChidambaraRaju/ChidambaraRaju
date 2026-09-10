@@ -1,17 +1,13 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Raju%20(Juu)&fontSize=54&fontAlign=50&fontAlignY=38&desc=Aspiring%20Agentic%20AI%20Developer%20•%20GenAI%20Builder%20•%20LLM%20Enthusiast&descAlign=50&descAlignY=58&color=gradient&animation=fadeIn" />
+  <img src="./assets/header.svg" alt="Raju (Juu) - cozy terminal" width="900" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Agentic+AI+systems+that+solve+real+problems;Exploring+LangGraph%2C+RAG%2C+and+LLM+fine-tuning;Turning+ideas+into+modern+AI+products;Learning+fast%2C+shipping+faster" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chidambara-raju-g-22a152233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ChidambaraRaju"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ChidambaraRaju&style=for-the-badge&color=blueviolet" alt="profile views" />
+  <a href="https://www.linkedin.com/in/chidambara-raju-g-22a152233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/ChidambaraRaju"><img src="https://img.shields.io/badge/GitHub-44403c?style=flat&logo=github&logoColor=e7e5e4" /></a>
 </p>
 
 ---
@@ -175,11 +171,15 @@ Notes and notebooks, ordered from foundations through serving, agents, RAG, LLM 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chidambara-raju-g-22a152233/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ChidambaraRaju">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-44403c?style=flat&logo=github&logoColor=e7e5e4" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChidambaraRaju&style=flat&color=d6a05c" alt="profile views" />
 </p>
 
 <p align="center">
